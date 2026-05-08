@@ -20,9 +20,11 @@ Presentation Layer (Frontend) Application Layer (Backend) Database Layer (MySQL)
 Password and username to login
 usermame password
 
-admin 123
-biomed 123
-staff 123
+admin 123,
+biomed 123,
+staff 123,
+
 License This project is for educational purposes.
+
 
 Authors Developed by Group 1.
